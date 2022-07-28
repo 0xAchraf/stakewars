@@ -98,8 +98,8 @@ After that, you only can access the VPS on GCP website with your browser
 You can do this challenge until `August 11th` and fill `Chuck-Only Producer Onboarding Form` [here](https://nearprotocol1001.typeform.com/to/Z39N7cU9). For ID you can fill in your email
 
 
-| Challenges | Description                            |   Started     |       Ended     | Link                                                              |
-| ---------- | -------------------------------------  | ------------- | --------------- | ----------------------------------------------------------------- |
+| Challenges | Details                                | Start         | End               | Link                                                              |
+| ---------- | -------------------------------------  | ------------- | ------------------| ----------------------------------------------------------------- |
 | 001        | Setup NEAR-CLI                         | July 13, 2022 |  August 11, 2022  |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/001.md) |
 | 002        | Setup Wallet dan Run Validator         | July 13, 2022 |  August 11, 2022  |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/002.md) |
 | 003        | Mounting Staking Pool                  | July 13, 2022 | August 11, 2022   |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/003.md) |
