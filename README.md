@@ -46,7 +46,7 @@ Before you scrolling down, please make sure that you already have GCP ( Google C
 
     <img width="800" alt="6" src="https://user-images.githubusercontent.com/78410824/181484435-59825085-4b3d-47ef-81c0-0fa80175ce0e.png">
     
-    Change the OS to Ubuntu 20.04 LTS ( x86/x64 ) and enter the storage value ( 500GB; recommended ) then click `Select` button
+    Change the OS to Ubuntu 20.04 LTS ( x86/x64 ) and input the storage value ( 500GB; recommended ) then click `Select` button
 
     <img width="800" alt="7" src="https://user-images.githubusercontent.com/78410824/181484440-e4ca705f-5063-4cc7-bf44-80fc1171b69f.png">
    
@@ -71,8 +71,27 @@ Before you scrolling down, please make sure that you already have GCP ( Google C
 
     <img width="400" alt="11" src="https://user-images.githubusercontent.com/78410824/181484460-f0c68e88-15f5-4086-90ff-50b22e3b14c7.png">
 
-7. Congrats, your VM is ready
+7. VPS is ready to use
 
     <img width="1000" alt="12" src="https://user-images.githubusercontent.com/78410824/181484466-caac9977-a58b-459b-867d-502c7aaac5ff.png">
     
+    ##### For prevent any trouble in the future, please always use these command to your VPS every before use
     
+    ```bash
+    sudo su
+    ```
+  
+    ```bash
+    cd
+    ```
+    
+    `sudo su` = change user to root, this is very important for any kind of command that requires permission
+    
+    `cd` = change current directory to root directory
+    
+    
+After that, you only can access the VPS on GCP website with your browser
+
+
+## Challenge
+
