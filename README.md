@@ -98,15 +98,15 @@ After that, you only can access the VPS on GCP website with your browser
 You can do this challenge until `August 11th` and fill `Chuck-Only Producer Onboarding Form` [here](https://nearprotocol1001.typeform.com/to/Z39N7cU9). For ID you can fill in your email
 
 
-| Challenges | Details                                | Start         | End               | Link                                                              |
-| ---------- | -------------------------------------  | ------------- | ------------------| ----------------------------------------------------------------- |
-| 001        | Setup NEAR-CLI                         | July 13, 2022 |  August 11, 2022  |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/001.md) |
-| 002        | Setup Wallet dan Run Validator         | July 13, 2022 |  August 11, 2022  |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/002.md) |
-| 003        | Mounting Staking Pool                  | July 13, 2022 | August 11, 2022   |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/003.md) |
-| 004        | Create Monitoring Node Status          | July 13, 2022 |  August 11, 2022  |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/004.md) |
-| 005        | Create Stakewars Guide                 | July 15, 2022 |  August 11, 2022  |-                                                                |
-| 006        | Create Auto Ping with 2 hours interval | July 19, 2022 |  August 11, 2022  |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/006.md) |
-| 007        | Create Data Science for Staking        | July 22, 2022 | September 7, 2022 |-                                                                |
+| Challenges | Details                                | Start         | End               | Link                                                               |
+| ---------- | -------------------------------------  | ------------- | ----------------- | ------------------------------------------------------------------ |
+| 001        | Setup NEAR-CLI                         | July 13, 2022 | August 11, 2022   |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/01.md) |
+| 002        | Setup Wallet dan Run Validator         | July 13, 2022 | August 11, 2022   |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/02.md) |
+| 003        | Mounting Staking Pool                  | July 13, 2022 | August 11, 2022   |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/03.md) |
+| 004        | Create Monitoring Node Status          | July 13, 2022 | August 11, 2022   |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/04.md) |
+| 005        | Create Stakewars Guide                 | July 15, 2022 | August 11, 2022   |-                                                                   |
+| 006        | Create Auto Ping with 2 hours interval | July 19, 2022 | August 11, 2022   |[Guide](https://github.com/0xachraf/stakewars/blob/main/task/06.md) |
+| 007        | Create Data Science for Staking        | July 22, 2022 | September 7, 2022 |-                                                                   |
 
 
 Form for Submission Challenges 5-7 [here](https://docs.google.com/forms/d/e/1FAIpQLScp9JEtpk1Fe2P9XMaS9Gl6kl9gcGVEp3A5vPdEgxkHx3ABjg/viewform)
