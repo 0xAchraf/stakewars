@@ -95,23 +95,18 @@ After that, you only can access the VPS on GCP website with your browser
 
 ## Challenge
 
+Form for Submission Challenges 5-7 [here](https://docs.google.com/forms/d/e/1FAIpQLScp9JEtpk1Fe2P9XMaS9Gl6kl9gcGVEp3A5vPdEgxkHx3ABjg/viewform)
+
 You can do this challenge until August 11th and fill `Chuck-Only Producer Onboarding Form` [here](https://nearprotocol1001.typeform.com/to/Z39N7cU9). For ID you can fill in your email
 
+| Challenges    | Link
+| ------------- | --------------------------------------------------------------------------------------------- |
+| Challenge 001 | [Setup NEAR-CLI](https://github.com/0xachraf/stakewars/blob/main/task/01.md)                  |
+| Challenge 002 | [Setup Wallet dan Run Validator](https://github.com/0xachraf/stakewars/blob/main/task/02.md)  |
+| Challenge 003 | [Mounting Staking Pool](https://github.com/0xachraf/stakewars/blob/main/task/03.md)           |
+| Challenge 004 | [Create Monitoring Node Status](https://github.com/0xachraf/stakewars/blob/main/task/04.md)   |
+| Challenge 005 | Create Stakewars Guide                                                                        |
+| Challenge 006 | [Set Auto Ping](https://github.com/0xachraf/stakewars/blob/main/task/06.md)                   |
+| Challenge 007 | Create Data Science for Staking                                                               |
 
 
-Challenge 001 - [Setup NEAR-CLI](https://github.com/0xachraf/stakewars/blob/main/task/01.md)
-
-Challenge 002 - [Setup Wallet dan Run Validator](https://github.com/0xachraf/stakewars/blob/main/task/02.md)
-
-Challenge 003 - [Mounting Staking Pool](https://github.com/0xachraf/stakewars/blob/main/task/03.md)
-
-Challenge 004 - [Create Monitoring Node Status](https://github.com/0xachraf/stakewars/blob/main/task/04.md)
-
-Challenge 005 - Create Stakewars Guide
-
-Challenge 006 - [Set Auto Ping](https://github.com/0xachraf/stakewars/blob/main/task/06.md)
-
-Challenge 007 - Create Data Science for Staking
-
-
-Form for Submission Challenges 5-7 [here](https://docs.google.com/forms/d/e/1FAIpQLScp9JEtpk1Fe2P9XMaS9Gl6kl9gcGVEp3A5vPdEgxkHx3ABjg/viewform)
