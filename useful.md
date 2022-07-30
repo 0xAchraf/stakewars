@@ -2,13 +2,14 @@
 
 1. Check Proposal List
 
-  - Check all proposals
+
+    Check all proposals
 
     ```bash
     near proposals
     ```
     
-  - Check specifically proposal
+    Check specifically proposal
 
     `xx` change with wallet name
     
@@ -16,20 +17,23 @@
     near proposals | grep xx.factory.shardnet.near
     ```
     
+    
 2. Check active validators
 
-  - Check all active validators
+
+    Check all active validators
         
     ```bash
     near validators current
     ```
- - Check specifically active validator
+    Check specifically active validator
 
     `xx` change with wallet name
     
     ```bash
     near validators current | grep xx.factory.shardnet.near
     ```
+    
     
 3. Check the next Validators
 
@@ -39,7 +43,7 @@
     near validators next
     ```
     
-    - We can also check the next validator specifically with this command
+      We can also check the next validator specifically with this command
     
       ```bash
       near validators next | grep xx.factory.shardnet.near
@@ -71,7 +75,7 @@
 
    NB: 1 NEAR = 1000000000000000000000000 yoctoNEAR
 
-   - For Unstake all your NEAR, run this command:
+     For Unstake all your NEAR, run this command:
 
      ```bash
      near call xx.factory.shardnet.near unstake_all --accountId xx.shardnet.near --gas=300000000000000
@@ -85,7 +89,7 @@
    near call xx.factory.shardnet.near withdraw '{"amount": "amount_of_yoctoNEAR"}' --accountId xx.shardnet.near --gas=300000000000000
    ```
 
-   - Run this command for withdaw all NEAR:
+     Run this command for withdaw all NEAR:
 
      ```bash
      near call xx.factory.shardnet.near withdraw_all --accountId xx.shardnet.near --gas=30000000000000    ```
@@ -133,14 +137,14 @@
 
 13. Pause / Resume Staking
 
-    - Pause
+      Pause
       Command:
 
       ```bash
        near call xx.factory.shardnet.near pause_staking '{}' --accountId xx.shardnet.near
       ```
 
-    - Resume
+      Resume
 
       Command:
 
