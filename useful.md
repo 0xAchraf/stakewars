@@ -154,4 +154,4 @@
       near call xx.factory.shardnet.near resume_staking '{}' --accountId xx.shardnet.near
       ```
 
-## How to deploy and use GCP - [Here](https://github.com/0xachraf/stakewars/blob/main/readme.md)
+## How to deploy and use GCP - [Here](https://github.com/0xachraf/stakewars/blob/main/README.md)
