@@ -1,4 +1,6 @@
-## Useful Commands
+# StakeW Wars III - Useful Commands
+
+### This is a useful command page that I created to make it easier to find a command if you run into problems later and have trouble finding a solution, hope it helps you
 
 1. Check Proposal List
 
@@ -151,3 +153,5 @@
       ```bash
       near call xx.factory.shardnet.near resume_staking '{}' --accountId xx.shardnet.near
       ```
+
+## How to deploy and use GCP - [Here](https://github.com/0xachraf/stakewars/blob/main/readme.md)
