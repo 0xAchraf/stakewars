@@ -93,7 +93,7 @@ Before you scrolling down, please make sure that you already have GCP ( Google C
 After that, you only can access the VPS on GCP website with your browser
 
 
-## Challenges 001 - 007
+## Challenges I - VII
 
 Form for Submission Challenges 5-7 [here](https://docs.google.com/forms/d/e/1FAIpQLScp9JEtpk1Fe2P9XMaS9Gl6kl9gcGVEp3A5vPdEgxkHx3ABjg/viewform)
 
